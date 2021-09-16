@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fabiha-fabs 
-- 👀 I’m interested in all type of Softare Development projects and core coding.
+- 👋 Hi, I’m @fabiha-fabs, I've experienced in software development for more than 5+ years.
+- 👀 I’m interested in all type of Software Development projects and core programming.
 - 🌱 I’m currently learning typescript, typeorm, nestjs, nuxtjs, nodejs etc.
 - 💞️ I’m looking to collaborate on a brilliant team to build an exceptional project(s).
 - 📫 How to reach me through email: lipu.scse@gmail.com [lipu is my short name here] or
