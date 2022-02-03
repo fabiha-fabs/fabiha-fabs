@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fabiha-fabs, I've experienced in software development for more than 5+ years.
+- 👋 Hi, I’m @fabiha-fabs, I've experienced in software development for more than 4+ years.
 - 👀 I’m interested in all type of Software Development projects and core programming.
 - 🌱 I’m currently learning typescript, typeorm, nestjs, nuxtjs, nodejs development projects.
 - 💞️ I’m looking for collaborating on a brilliant team to build an exceptional project(s).
